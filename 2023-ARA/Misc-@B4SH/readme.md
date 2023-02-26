@@ -10,7 +10,7 @@ So, we use a online multi decoder from [cachesleuth.com](https://www.cachesleuth
 
 ![res](assets/Screenshot_20230226_081545.png)
 
-Then, we try some decoder to decode the results. After trying some methods, we got it using AtBash chipher decoder. Thanks to [dcode.fr](https://www.dcode.fr/atbash-cipher)
+Then, we try some decoder to decode the results. After trying some methods, we got it using AtBash chipher decoder. Thanks to [dcode.fr](https://www.dcode.fr/atbash-cipher).
 
 ![res](assets/Screenshot_20230226_081555.png)
 
