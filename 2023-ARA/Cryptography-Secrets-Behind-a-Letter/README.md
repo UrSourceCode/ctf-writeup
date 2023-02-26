@@ -19,4 +19,3 @@ So based on this unciphered data, I found that the flag was:
 ```
 ARA2023{it_turn5_0ut_to_b3_ab_rsa}
 ```
-Then here is the result: <br />
