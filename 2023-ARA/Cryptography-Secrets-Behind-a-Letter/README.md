@@ -17,5 +17,5 @@ Based of their documentation, I used a command `--uncipher`, here is the result:
 
 So based on this unciphered data, I found that the flag was:
 ```
-ARA2023{it_turn5_0ut_to_b3_ab_rsa}
+ARA2023{it_turn5_0ut_to_b3_an_rsa}
 ```
