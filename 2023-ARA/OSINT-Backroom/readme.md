@@ -145,7 +145,7 @@ Open the Google Maps, input the latitude and longitude data into search bar with
 
 ![res](assets/Screenshot%20(557).png)
 
-When we see, there is several place that pinned here. As the description challenge said, "so I give this place 5 star". Try to search one by one from these places the 5 stars review (sort by newest and highest rating). Then, we got it in Hi-Tech Mall Surabaya as follows.
+When we see, there is several place that pinned here. As the description challenge said, "so I give this place 5 star". Try to search one by one from these places the 5 stars review (sort by latest and highest rating). Then, we got it in Hi-Tech Mall Surabaya as follows.
 
 ![res](assets/Screenshot_20230226_085723.png)
 
