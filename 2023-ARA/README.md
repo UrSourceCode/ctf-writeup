@@ -1,5 +1,5 @@
-# 2023-ARA
-CTF Writeup for ARA ITS 2023 CTF. During this competition, I took part with the ctf masbro team and got 33rd place. Here is the write up collaborated with [masnurrm](https://github.com/masnurrm) and [fhinn](https://github.com/fhinnn). <br />
+# 2023 - ARA
+CTF Writeup for ARA ITS 2023 CTF. During this competition, I took part with the `ctf masbro` team and got 33rd place. Here is the write up collaborated with [masnurrm](https://github.com/masnurrm) and [fhinn](https://github.com/fhinnn). <br />
 | Category     | Challenge                                                                                                                           | Author                                         |
 |--------------|-------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
 | Cryptography | [Help](https://github.com/elshiraphine/ctf-writeup/tree/main/2023-ARA/Cryptography-Help)                                            | [matryochska](https://github.com/elshiraphine) |
