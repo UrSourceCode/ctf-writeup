@@ -1,4 +1,4 @@
-##Steg - Everybody's SO Creative
+## Steg - Everybody's SO Creative
 > Ugh, why do they keep trying to make good music sound bad? There's NO way this is what the DJ intended to play. I can't believe they had the audacity to do this!
 >
 > Developed by Cyb3rSw0rd
