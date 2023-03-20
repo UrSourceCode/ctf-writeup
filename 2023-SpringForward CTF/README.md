@@ -1,5 +1,5 @@
 # 2023 - SpringForward CTF
-CTF Writeup for Nullcon HackIM CTF. I took this competition solo as matryochska (GirlsWhoCry Team) and got 79th place out of 242 team. Here is the write up: <br />
+CTF Writeup for SpringForward CTF. I took this competition solo as matryochska (GirlsWhoCry Team) and got 79th place out of 242 team. Here is the write up: <br />
 
 | Category  | Challenge                      | Link                                                                                                                               |
 |-----------|--------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
