@@ -177,11 +177,11 @@ The output mentioned `John OSINTs on twitter` and we were given a hashtag. So le
 
 There is an account named @JohnOSINT_ who used #YourFlagsBelongToUs
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;ve been getting reports of a new ransomware group that have been specifically targeting CTFs. They&#39;ve been posting <a href="https://twitter.com/hashtag/YourFlagsBelongToUs?src=hash&amp;ref_src=twsrc%5Etfw">#YourFlagsBelongToUs</a> to their victims and demanding crypto in exchange for the flags and infra back. This is big.....</p>&mdash; John OSINT (@JohnOSINT_) <a href="https://twitter.com/JohnOSINT_/status/1634680651768270848?ref_src=twsrc%5Etfw">March 11, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;ve been getting reports of a new ransomware group that have been specifically targeting CTFs. They&#39;ve been posting <a href="https://twitter.com/hashtag/YourFlagsBelongToUs?src=hash&amp;ref_src=twsrc%5Etfw">#YourFlagsBelongToUs</a> to their victims and demanding crypto in exchange for the flags and infra back. This is big.....</p>&mdash; John OSINT (@JohnOSINT_) <a href="https://twitter.com/JohnOSINT_/status/1634680651768270848?ref_src=twsrc%5Etfw">March 11, 2023</a></blockquote>
 
 By read that's thread there is a flag encoded with `Base64`
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;ve only exfiltrated one flag from them so far: d2N0Znt1aGhoX3doM3IzX2QxZF80bGxfMHVyX2ZsNGdzX2cwP30=</p>&mdash; John OSINT (@JohnOSINT_) <a href="https://twitter.com/JohnOSINT_/status/1634682918764429313?ref_src=twsrc%5Etfw">March 11, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;ve only exfiltrated one flag from them so far: d2N0Znt1aGhoX3doM3IzX2QxZF80bGxfMHVyX2ZsNGdzX2cwP30=</p>&mdash; John OSINT (@JohnOSINT_) <a href="https://twitter.com/JohnOSINT_/status/1634682918764429313?ref_src=twsrc%5Etfw">March 11, 2023</a></blockquote>
 
 Using this command to decode, we got that the flag was
 ![flag](assets/flag.png)
