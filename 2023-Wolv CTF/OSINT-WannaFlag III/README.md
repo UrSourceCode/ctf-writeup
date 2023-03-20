@@ -34,7 +34,7 @@ Using reveddit on this link [https://www.reveddit.com/v/w4nn4_fl4g/](https://www
 In the first post `r/w4nn4_fl4g Lounge`, I can find nothing. There only a discussion from other participants removed by moderator. The second post was interesting but after I opened the post, the post was removed by moderator and the user who posted was deleted their account so I can't see anything.
 ![help](assets/hii_jelp.png)
 
-Once again, I used another tools named `Unddit`. Based on their website, it can `display removed (by mods) and deleted (by users) comments/posts for Reddit'. So here's the link [https://www.unddit.com/r/w4nn4_fl4g/comments/11p5w72/hiiiiiiiii_help/](https://www.unddit.com/r/w4nn4_fl4g/comments/11p5w72/hiiiiiiiii_help/) and we found
+Once again, I used another tools named `Unddit`. Based on their website, it can `display removed (by mods) and deleted (by users) comments/posts for Reddit`. So here's the link [https://www.unddit.com/r/w4nn4_fl4g/comments/11p5w72/hiiiiiiiii_help/](https://www.unddit.com/r/w4nn4_fl4g/comments/11p5w72/hiiiiiiiii_help/) and we found
 ![unddit](assets/unddit.png)
 
 Yeay, let's take a look at the link [https://wanna-flag-d60bf7cd-012a-4fcc-9a4c-e60eca6b653f-tlejfksioa-ul.a.run.app/](https://wanna-flag-d60bf7cd-012a-4fcc-9a4c-e60eca6b653f-tlejfksioa-ul.a.run.app/) and we can found that the flag was
