@@ -31,7 +31,7 @@ Scrolled the page, there were some comments who deleted by moderators (w4nn4fl4g
 Using reveddit on this link [https://www.reveddit.com/v/w4nn4_fl4g/](https://www.reveddit.com/v/w4nn4_fl4g/), I can see two archived post
 ![archived](assets/archived.png)
 
-In the first post `r/w4nn4_fl4g Lounge`, I can find nothing. There only a discussion from other participants removed by moderator. The second post was interesting but after I opened the post, the post was removed by moderator and the user who posted was deleted their account so I can see anything.
+In the first post `r/w4nn4_fl4g Lounge`, I can find nothing. There only a discussion from other participants removed by moderator. The second post was interesting but after I opened the post, the post was removed by moderator and the user who posted was deleted their account so I can't see anything.
 ![help](assets/hii_jelp.png)
 
 Once again, I used another tools named `Unddit`. Based on their website, it can `display removed (by mods) and deleted (by users) comments/posts for Reddit'. So here's the link [https://www.unddit.com/r/w4nn4_fl4g/comments/11p5w72/hiiiiiiiii_help/](https://www.unddit.com/r/w4nn4_fl4g/comments/11p5w72/hiiiiiiiii_help/) and we found
