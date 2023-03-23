@@ -30,6 +30,7 @@ First, let's take a look at the page source. In the page source there is a scrip
 ```
 
 Let's input the correct pin and we got the flag.
+
 ![pin](assets/pin.png)
 
 The flag was:
