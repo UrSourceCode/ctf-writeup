@@ -1,4 +1,4 @@
-## PWN - Qustionnaire
+## PWN - Questionnaire
 
 ### Description
 
