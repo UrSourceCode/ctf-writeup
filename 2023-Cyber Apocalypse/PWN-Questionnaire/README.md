@@ -9,6 +9,7 @@
 ### Knowledge Requirements
 
 1. Basic understanding of C programming language
+2. Using gdb to debug program
 
 ### Exploit
 
